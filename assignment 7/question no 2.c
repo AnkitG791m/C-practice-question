@@ -1,4 +1,4 @@
-/* Write a program to find the Nth term of the Fibonnaci series
+/*  Write a program to print first N terms of Fibonacci series
 input:-
         8
 
