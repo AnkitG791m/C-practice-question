@@ -10,7 +10,7 @@ output:-
 
 int main()
 {
-    printf("Enter a number do you to reverse:- ");
+    printf("Enter a number to print first N terms of Fibonacci series:- ");
     int num,a=0,b=1; //a is previous value and b is current value
     
     scanf("%d",&num); //jab tak "i" ke "num" barabar na ho jaye tab tak loop chalega
